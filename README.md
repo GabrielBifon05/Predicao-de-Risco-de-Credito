@@ -306,4 +306,4 @@ Este projeto demonstra um pipeline completo de análise de dados e machine learn
 # 👨‍💻 Autor
 
 Gabriel Bifon
-SAP Security Analyst & Data Enthusiast
+Data Enthusiast
