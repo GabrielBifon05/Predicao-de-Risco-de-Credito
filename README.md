@@ -4,6 +4,8 @@ Este projeto tem como objetivo construir um modelo de **análise de risco de cr�
 
 O fluxo cobre **limpeza de dados, análise exploratória, entendimento das variáveis, modelagem, avaliação e criação de um sistema de predição**.
 
+<sub>Fonte de dados: https://www.kaggle.com/competitions/GiveMeSomeCredit/data</sub>
+
 ---
 
 # 📊 Objetivo
